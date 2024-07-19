@@ -1,1 +1,3 @@
 *.exe
+cs50.c
+.vscode
