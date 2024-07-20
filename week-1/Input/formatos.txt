@@ -1,0 +1,7 @@
+%s = String
+%i ou %d = Integer
+%li = long int
+%f = float
+%lf = Double
+%c = char
+
