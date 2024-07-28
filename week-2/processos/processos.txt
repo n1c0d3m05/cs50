@@ -1,0 +1,11 @@
+preprocesso
+-> #include<stdio.h>
+vai pegar as funções que estão dentro das bibliotecas chamadas
+
+compilar
+-> vai transformar seu codigo em codigo assembly
+assembly
+-> vai transformar o codigo assembly em binario
+
+juntar
+-> vai juntar os binarios

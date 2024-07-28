@@ -1,2 +1,5 @@
 # cs50
-The cs50 course
+
+meu percurso no curso cs50
+
+curso: https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home
